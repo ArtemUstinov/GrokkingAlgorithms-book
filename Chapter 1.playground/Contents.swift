@@ -1,5 +1,5 @@
 // Title 1
-// The binary search
+// The binary search.
 
 let arrayOne = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512]
 let arrayTwo = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
